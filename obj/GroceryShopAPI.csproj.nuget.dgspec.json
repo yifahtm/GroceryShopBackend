@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yifahtmyers/GroceryShopAPI/GroceryShopAPI.csproj": {}
+    "/Users/yifahtmyers/GroceryShopBackend/GroceryShopAPI.csproj": {}
   },
   "projects": {
-    "/Users/yifahtmyers/GroceryShopAPI/GroceryShopAPI.csproj": {
+    "/Users/yifahtmyers/GroceryShopBackend/GroceryShopAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yifahtmyers/GroceryShopAPI/GroceryShopAPI.csproj",
+        "projectUniqueName": "/Users/yifahtmyers/GroceryShopBackend/GroceryShopAPI.csproj",
         "projectName": "GroceryShopAPI",
-        "projectPath": "/Users/yifahtmyers/GroceryShopAPI/GroceryShopAPI.csproj",
+        "projectPath": "/Users/yifahtmyers/GroceryShopBackend/GroceryShopAPI.csproj",
         "packagesPath": "/Users/yifahtmyers/.nuget/packages/",
-        "outputPath": "/Users/yifahtmyers/GroceryShopAPI/obj/",
+        "outputPath": "/Users/yifahtmyers/GroceryShopBackend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yifahtmyers/.nuget/NuGet/NuGet.Config"
